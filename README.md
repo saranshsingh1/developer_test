@@ -33,5 +33,5 @@ the following information from the first 6 articles on our blog [here](http://if
 
 
 
-<a name="footnote"></a>** The awesome idea of github pull request as
-job application task was previously done by [Integrum](http://integrumtech.com) [here](https://github.com/integrum/job-application)
+<a name="footnote"></a>** The awesome idea of using a GitHub pull request as
+job application task was previously done by [Hedgeye](https://app.hedgeye.com/) [here](https://github.com/hedgeyedev/Data-Engineer-Applicant-Exercise)
