@@ -1,22 +1,23 @@
 How many years of development experience do you have?
-
+Ans - I have 2 years of development experience.
 
 How many years of JavaScript experience do you have?
-
+Ans - I have 6 months of JavaScript experience.
 
 How many years of Ruby and/or Rails experience do you have?
-
+Ans - Unfortunately, I have no Ruby and/or Rails experience.
 
 How many years of other high level language(s) if not Ruby or JavaScript do you have?
-
+Ans - I have close to 8 months of Java academic experience.
 
 What are your opinions on Agile software development?
-
+Ans - Agile is a great methodology for software development. Good documentation is available for Agile’s value. It can help small start-ups or bigger companies deliver quality products on time. It provides customer satisfaction right from the early stages of MVP and changes and improvements are always continuous. To sum it up, Agile is an amazing style of Software Development. 
 
 TDD or BDD?
-
+Ans - I have a working knowledge of TDD but not BDD. So I would go with TDD at the moment. In the future, I would like to learn BDD as well; depending on the language and requirements of the project, the decision can be made on TDD or BDD.
 
 What are you looking for in a job?
-
+Ans - I want to contribute to the workforce at the new job and at the same time get more experience in the current technology while learning something new at the same time.
 
 When can you start?
+Ans - I can start within 1 week of being hired.
