@@ -1,0 +1,20 @@
+1. I have used Python as my chosen language for refactoring the exercise.
+
+2. I did not make any changes to Rakefile as it is used for ruby files.
+
+3. I modified the ‘template.py’ and ‘template_test.py’ files
+
+4. The template.py file can be modified since the code deals with string modification.
+
+—> I have used string formatting to make changes to the code using ’str.format()’ method of string object.
+
+—> Removed the unnecessary code to concatenate strings adding the ‘req_id’
+
+5. The template_test.py is modified; ‘%CODE%’ and ‘%ALTCODE%’ has been replaced with 
+   ‘{CODE}’ and ‘{ALTCODE}’. This makes using format() method easy to operate with.
+
+6. After these modifications, the test clears.
+
+7. I removed the setup method, to make the code more compact, as it is not necessary for this test.
+
+8. The other details are correct/do not need any changes. I left them intact.

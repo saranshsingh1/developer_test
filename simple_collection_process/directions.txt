@@ -1,0 +1,18 @@
+1. Install ‘requests’, ‘lxml’, ‘beautifulsoup’ modules for python (use sudo pip for mac)
+->’requests’ - pip install requests
+->’lxml’ - pip install lxml
+->’beautifulsoup’ - pip install beautifulsoup4
+
+—>we use lxml module as the beautifulsoup parser as it is fast compared to html parser.
+
+2. The code is written in Python2 version.
+
+3. Installing the above modules will cause no errors running the script
+
+4. In terminal/console, type ‘python script.py’
+
+5. Once the command is executed, 2 files are generated: ‘data.csv’ and ‘fbimg.gif’
+
+6. ‘data.csv’ files contains all the information asked from the link ‘http://ifpartners.com/cut-the-wire/’ namely - Datetime Updated, Title Header, Author Name, Banner Image href, Content Body HTML
+
+7. ‘fbimg.gif’ is the first image found “inside” the content body.
